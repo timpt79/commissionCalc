@@ -4,7 +4,7 @@
  */
 
 /**
- * New File
+ * New File, adding a comment
  * @author Tim
  */
 public class Main {
