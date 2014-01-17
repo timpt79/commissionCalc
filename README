@@ -1,0 +1,34 @@
+Read Me
+
+System will allow the user (N) to input (V) the annual sales (user being HR) for salesperson
+
+•	Week Three 
+	Modify new rule / change request
+	System shall print (V) salespersons (N) Current (A) and comp plus potential comp at 5k increments up to 50% above annual sales
+
+•	Week Four
+	The system shall compare (V) all compensations against the highest salespersons (N) comp (A)
+Display the salespersons name and amount (A) less than highest earner (N)
+
+
+	Nouns:
+Salesperson
+User
+Comp Policy
+
+	Adj:
+Highest Earner (Describes Salesperson)
+Current Comp
+Fixed Sal
+Total annual comp
+Name
+Commission Rate
+
+	Verb:
+Calculate total An Comp
+Input Salesperson name
+Input sales amount
+Calculate Commission
+Calculate the difference / may be a separate method
+Print salesperson total annual comp
+Print table
